@@ -191,7 +191,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #0000ff;}
     align-items: center;
     justify-content: center;
     position:relative;
-    background:url(../images/about/bannerX.jpg)no-repeat;
+	background:url(../images/about/ai_generated.png)no-repeat;
     background-size:cover;
     background-position: center;
     height:890px;
